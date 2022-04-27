@@ -1,4 +1,4 @@
 # README
 
-# thecode-theme 
+# code-theme 
 **Enjoy!**
