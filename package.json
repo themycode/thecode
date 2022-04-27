@@ -2,11 +2,14 @@
     "name": "thecode",
     "displayName": "thecode",
     "description": "vscode theme",
-    "version": "0.0.1",
+    "version": "0.0.5",
     "publisher": "thecode",
     "license": "Apache-2.0",
     "engines": {
         "vscode": "^1.66.0"
+    },
+    "scripts": {
+        "publish": "vsce publish"
     },
     "categories": [
         "themes"
