@@ -1,0 +1,21 @@
+{
+    "name": "thecode",
+    "displayName": "thecode",
+    "description": "shen",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "TPA-theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "thecode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/thecode-color-theme.json"
+            }
+        ]
+    }
+}
