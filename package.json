@@ -1,13 +1,13 @@
 {
     "name": "thecode",
     "displayName": "thecode",
-    "description": "shen",
+    "description": "vscode theme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.66.0"
     },
     "categories": [
-        "TPA-theme"
+        "thecode-theme"
     ],
     "contributes": {
         "themes": [
