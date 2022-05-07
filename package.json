@@ -2,8 +2,9 @@
     "name": "thecode",
     "displayName": "thecode",
     "description": "vscode theme",
-    "version": "0.0.5",
+    "version": "0.0.7",
     "publisher": "thecode",
+    "icon": "icon.png",
     "license": "Apache-2.0",
     "engines": {
         "vscode": "^1.66.0"
