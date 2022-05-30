@@ -60,7 +60,8 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#707070"
+				"foreground": "#707070",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -108,7 +109,8 @@
 		{
 			"scope": "keyword,keyword.operator.new,keyword.operator.delete,keyword.operator.static,keyword.operator.this,keyword.operator.expression",
 			"settings": {
-				"foreground": "#CC8242"
+				"foreground": "#07a007",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -120,7 +122,8 @@
 		{
 			"scope": "storage,storage.type,storage.modifier,storage.arrow",
 			"settings": {
-				"foreground": "#CC8242"
+				"foreground": "#07a007",
+				"fontStyle": "bold"
 			}
 		},
 		{
