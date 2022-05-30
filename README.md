@@ -2,4 +2,5 @@
 
 # code-theme 
 vscode theme
-**Enjoy!**
+
+This is a customized theme. Enjoy it!
