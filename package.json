@@ -1,8 +1,8 @@
 {
     "name": "thecode",
-    "displayName": "thecode",
+    "displayName": "Dark Matter Theme",
     "description": "vscode theme",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "publisher": "thecode",
     "icon": "icon.png",
     "license": "Apache-2.0",
@@ -23,9 +23,5 @@
                 "path": "./themes/thecode-color-theme.json"
             }
         ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/themycode/thecode"
     }
 }
