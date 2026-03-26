@@ -2,7 +2,7 @@
     "name": "thecode",
     "displayName": "Dark Matter Theme",
     "description": "vscode theme",
-    "version": "0.0.12",
+    "version": "0.0.13",
     "publisher": "thecode",
     "icon": "icon.png",
     "license": "Apache-2.0",
@@ -13,7 +13,7 @@
         "publish": "vsce publish"
     },
     "categories": [
-        "themes"
+        "Themes"
     ],
     "contributes": {
         "themes": [
