@@ -2,7 +2,7 @@
     "name": "thecode",
     "displayName": "Dark Matter Theme",
     "description": "vscode theme",
-    "version": "0.0.13",
+    "version": "0.0.15",
     "publisher": "thecode",
     "icon": "icon.png",
     "license": "Apache-2.0",
@@ -20,7 +20,7 @@
             {
                 "label": "thecode",
                 "uiTheme": "vs-dark",
-                "path": "./themes/thecode-color-theme.json"
+                "path": "./themes/dark-matter-color-theme.json"
             }
         ]
     }
